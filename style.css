@@ -1,0 +1,178 @@
+.bg{
+    background-color: #281e65;
+}
+.bg1{
+    height: 650px;
+    margin: 1%;
+    border-radius: 25px;
+  background-image: linear-gradient(to bottom right, Blue  , Crimson );
+}
+.logo{
+    margin-top: 12%;
+    margin-left: 13%;
+    color: white;
+    font-weight: bold;
+}
+.discussion{
+    margin-left:-6%;
+}
+.msg{
+    border-radius: 25px;
+  background: white;
+  padding: 20px; 
+  width: 90%;
+  height: 100px;
+}
+.msg p{
+    color:rgb(69, 33, 98);
+    font-family: gt_walsheim, Helvetica, sans-serif;
+}
+.message-img img{
+    border-radius: 25px !important;
+    width: 66% !important;
+    margin-top: 1%;
+}
+.message1 {
+    margin-top: 5%;
+}
+.message2 {
+    height: 62px;
+    margin-top: 1%;
+}
+.message3 {
+    height: 56px;
+    width: 56%;
+    margin-top: 1%;
+}
+.text-small{
+    color: white;
+    font-size: 13px;
+    margin-top: 8px;
+}
+.button-2{
+    width: 42%;
+    height: 63px;
+}
+.button-1{
+    width: 42%;
+    height: 63px;
+
+}
+.text-small-1{
+    color: white;
+    font-size: 15px;
+    margin-top: 8px;
+    margin-right: -17%;
+}
+.lien{
+    text-decoration: underline;
+    color: white;
+
+}
+
+
+.link{
+    display: flex;
+    margin-top: 41px;
+}
+
+.link a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-weight: 693;
+    font-family: gt_walsheim, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.link1{
+    margin-left: 15%;
+
+margin-right: 14%;
+}
+
+.link2{
+    border-radius: 25px;
+    color: crimson;
+    border-style: solid;
+    text-align: center;
+    width: 30%;
+    height: 44px;
+    margin-left: 3%;
+}
+    
+
+.link3{
+    border-radius: 25px;
+    background: crimson;
+    
+    text-align: center;
+    width: 30%;
+    height: 44px;
+    margin-left: 3%;
+}
+.card-footer{
+
+  background: white !important;
+  padding: 20px; 
+  width: 46%;
+  height: 100px;
+  margin-left: 2%;
+  margin-bottom: 2%;
+}
+.card-footer p{
+    color:rgb(69, 33, 98);
+    font-family: gt_walsheim, Helvetica, sans-serif;
+}
+.l1{
+    color:rgb(69, 33, 98);  
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px){
+.message1{
+    margin-top: 54%;
+}
+.link1{
+    margin-left: -69%;
+}
+.link2{
+    width: 49%;
+}
+.link3{
+    width: 49%;
+}
+.msg{
+    width: 176%;
+}
+.message-img img{
+    width: 113% !important;
+}
+.message3{
+    width: 117%;
+}
+.button-1{
+    width: 81%;
+    margin-left: 18%;
+}
+.button-2{
+    width: 81%;
+    margin-left: 18%;
+}
+.bg1{
+    height: 935px;
+}
+.text-small{
+    margin-left: 18%;
+}
+.text-small-1{
+    margin-left: 13%;
+}
+.card-footer{
+    width: 96%;
+    height: 112px;
+}
+
+
+
+
+
+}
